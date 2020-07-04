@@ -1,0 +1,19 @@
+{
+  "name": "sys_node_vue_pro",
+  "version": "1.0.0",
+  "description": "使用vue + elementui构建页面，并采用nodejs + express和mondoDB数据库构建一个管理后台应用！主要用于日常学习积累！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonroseyu/sys_node_vue_pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonroseyu/sys_node_vue_pro/issues"
+  },
+  "homepage": "https://github.com/sharonroseyu/sys_node_vue_pro#readme"
+}
