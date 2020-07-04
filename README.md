@@ -4,7 +4,8 @@
 ### 项目步骤
 1. 直接在 github 官网新建一个空想并git clone 到本地。
 2. npm init 初始化项目
-3. 在本地新建分支 boxpcyu
+3. 在本地新建分支 boxpcyu（如果项目不是当前git账号创建，需要邀请加入该项目）
 4. git push --set-upstream origin boxpcyu 第一次提交，并关联远程分支
 4. 在本地新建开发分支 dev
+
 
